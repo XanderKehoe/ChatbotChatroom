@@ -36,7 +36,6 @@ def deEmojify(inputString):
     return inputString.encode('ascii', 'ignore').decode('ascii')
 
 
-
 bot1 = Bot()
 bot2 = Bot()
 
